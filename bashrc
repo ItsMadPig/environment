@@ -123,4 +123,4 @@ gvm use go1.5.3
 alias cdgo="cd /home/itsmadpig/.gvm/pkgsets/go1.5.3/global"
 alias cdsky="cd /home/itsmadpig/.gvm/pkgsets/go1.5.3/global/src/github.com/OmniTier/skyriver"
 export EDITOR="/usr/bin/vim"
-PATH=$PATH:/home/itsmadpig/Downloads/etcd-v2.3.0-alpha.1-linux-amd64
+PATH=$PATH:/home/itsmadpig/Downloads/etcd-v2.3.0-alpha.1-linux-amd64:/home/itsmadpig/.gvm/pkgsets/go1.5.3/global/src/github.com/OmniTier/skyriver/admin/oni:/home/itsmadpig/.gvm/pkgsets/go1.5.3/global/src/github.com/OmniTier/skyriver/admin/rafter
